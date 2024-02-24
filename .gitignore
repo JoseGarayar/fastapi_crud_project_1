@@ -1,0 +1,13 @@
+# Environment variables
+.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Caches
+.cache/
+
+# Logs and databases
+*.log
+*.sqlite
